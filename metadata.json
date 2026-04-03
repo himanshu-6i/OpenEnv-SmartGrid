@@ -1,0 +1,5 @@
+{
+  "name": "OpenEnv: Smart Grid RL Optimizer",
+  "description": "A high-fidelity Reinforcement Learning environment for optimizing renewable energy storage and grid stability.",
+  "requestFramePermissions": []
+}
